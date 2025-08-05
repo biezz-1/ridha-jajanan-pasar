@@ -1,0 +1,46 @@
+
+
+
+
+img {border-radius: 10px;}
+.italic {font-family: 'Franklin Gothic Medium';}
+.sugar {font-family: 'Gill Sans';}
+footer {
+  background:linear-gradient(to bottom,  #957d55, #c29f66);
+  color: white;
+  padding: 20px;
+}
+.teks {color: white;}
+
+ hr.custom-line {
+    border: none;
+    height: 3px;
+    background: linear-gradient(to right, #957d55, #c29f66);
+    border-radius: 2px;
+    margin: 1rem 0;
+  }
+  
+  .atas {padding-top: 15rem;}
+  .atas2 {padding-top: 7rem;}
+.header {
+  background: linear-gradient(to bottom, #957d55, #c29f66);
+  color: white;
+  padding: 60px 20px;}
+
+.katro {margin-right: 100px;}
+
+
+#kiri {margin-left: 150px;}
+
+.card {
+      
+      border-radius: 10px; /* Sudut membulat */
+      padding: 20px; /* Ruang di dalam kartu */
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Bayangan */
+      transition: transform 0.3s ease; /* Transisi saat hover */}
+    .card:hover {
+      transform: scale(1.05); /* Membesarkan sedikit saat hover */
+      transition: transform 0.3s ease;
+      z-index: 1;
+    }
+
